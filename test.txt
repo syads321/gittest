@@ -6,8 +6,7 @@ feature 5
 feature 6
 feature 8
 feature 9
+feature 10
 bug 1
-bug 2
-bug 3
 bug 5
 bug 6
